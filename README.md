@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madeleinedawson
-- 👀 I’m interested in satellite remote sensing of Ocean Systems.
+- 👀 I’m interested in satellite remote sensing of Oceanic Systems.
 - 🌱 I’m currently learning pursing a Ph.D.
 - 📫 How to reach me: msd165@miami.edu
 
