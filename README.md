@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madeleinedawson
+- 👋 Hi, I’m @scholardawson
 - 👀 I’m interested in satellite remote sensing of Oceanic Systems.
 - 🌱 I’m currently pursing a Ph.D. in Ocean Sciences (Remote Sensing track)
 
